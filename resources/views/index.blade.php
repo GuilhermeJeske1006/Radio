@@ -550,7 +550,7 @@
                                     id="Musica" value=" {{ $item->Musica }}"></textarea>
                             </div>
                         </div>
-                        <div class="modal-footer">
+                        <div class="modal-footer"> 
                             <button type="submit" class="btn btn-primary">Editar</button>
                         </div>
                     </form>
